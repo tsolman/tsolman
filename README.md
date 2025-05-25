@@ -5,7 +5,7 @@ Welcome to my corner of the GitHub universe! I'm a software engineer based in At
 ## 🚀 About Me
 
 - 🏛️ **Based in:** Athens, Greece - coding where democracy was born and left the place...
-- 🔗 **Currently at:** Polkadot Blockchain Academy - Shaping the future of Web3
+- 🔗 **Currently at:** [Polkadot Blockchain Academy](https://polkadot.academy) - Shaping the future of Web3
 - 💼 **Also with:** [WeAreFabbrik](https://wearefabbrik.com) - Building awesome things
 - 🌟 **Philosophy:** Half Greek heritage, fully awesome code
 - 🎯 **Focus:** Blockchain development, Web3 technologies, decentralized applications, AI tools
