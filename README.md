@@ -27,11 +27,11 @@ const tsolman = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsolman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tsolman)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsolman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tsolman)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsolman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tsolman)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsolman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tsolman) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tsolman&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/tsolman)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=tsolman&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/tsolman) -->
 
 <!-- Alternative options if the above don't work -->
 <!-- 
